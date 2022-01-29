@@ -1,8 +1,9 @@
-
-#Welcome to GRAPE FINANCE
-
-
-Thanks for taking the time to contribute!
+テスト。
+。t
+＃GRAPEFINANCE
+。あ
+。ああ
+貢献してくれてありがとう！
 You can start by reading our [Contribution guidelines](CONTRIBUTING.md) first.
 
 ## Setup
@@ -40,4 +41,6 @@ npx prettier --write .
 - [Our project documentation] (https://grapefinance.gitbook.io/grape-finance-docs/) will help you understand before start contributing
 - Join our Discord (https://discord.gg/mZ4QrZwH5M) community to get in on the discussion
 - Or if you are more of a [Telegram person](https://t.me/GrapeDefi) we have that too
-- Bugs? Use the Issues section of our github to report them
+-バグ？githubのIssuesセクションを使用して報告してください
+
+＃GRAPEFINANCEへようこそ
